@@ -62,8 +62,7 @@ $\nabla_{W_Q} = X^\top \nabla_Q, \quad \nabla_{W_K} = X^\top \nabla_K, \quad \na
 
 ### Prerequisites
 
-- Rust 1.70+  
-- Cargo (comes with Rust)
+- Rust v1.88
 
 ### Clone the repository
 
