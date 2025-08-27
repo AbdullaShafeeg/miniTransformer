@@ -42,7 +42,7 @@ $F_1 = R_1 W_1, \quad H = \text{ReLU}(F_1), \quad F_2 = H W_2$
 $R_2 = R_1 + F_2$
 
 6. **Loss:**  
-$L = \text{cross\_entropy}(R_2, targets)$
+$L = \text{cross entropy}(R_2, targets)$
 
 ---
 
