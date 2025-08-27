@@ -100,3 +100,5 @@ cargo run
 ## License
 
 MIT License © 2025 Abdulla Shafeeg
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
